@@ -1,0 +1,25 @@
+LegalEase/
+├── ai_core/
+│   ├── __init__.py
+│   └── gemini_generator.py
+├── assets/
+│   └── legal_ease_logo.png
+├── formatters/
+│   ├── __init__.py
+│   ├── docx_formatter.py
+│   ├── pdf_formatter.py
+│   └── utils.py
+├── .streamlit/
+│   └── config.toml
+├── .env.example
+├── .gitignore
+├── Procfile
+├── README.md
+├── PROJECT_STRUCTURE.txt
+├── app.py
+├── main.py
+├── routes.py
+├── requirements.txt
+├── run_backend.bat
+├── run_frontend.bat
+└── setup_windows.bat
